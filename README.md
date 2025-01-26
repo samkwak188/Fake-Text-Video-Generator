@@ -4,7 +4,7 @@ This is a video creation tool that you can generate fake iMessage styled text st
 I'm pretty sure you came across those videos on tiktok and youtube shorts where two AI voice actors read out a fake text message conversation. This type of videos are fun and fairly engaging, but to make them either you need to pay for AI tools or edit videos yourself on tools like capcut, which costs money and very time consuming. That's why I created this website, to simply create fake text interface and render it into a video with voiceovers, background videos and sound effects. This tool will be helpful for those who looking for video automation tool for tiktok and youtube shorts. Try now and create your own viral shorts today.
 
 
-Important: The preset video files I used cannot be uploaded on Github since they exceed the git LFS free limit of 1GB, so I'm attatching the video files here so that you can download them and try yourself. The video files should be saved under static - videos folder. 
+Important: The preset video files I used cannot be uploaded on Github since they exceed the git LFS free limit of 1GB, so I'm attatching the video files [here]([here](https://drive.google.com/drive/folders/1lu_HuPx0Tkpa6w7N-8zQUdPmch9Kr-tY?usp=sharing)) so that you can download them and try yourself. The video files should be saved under static - videos folder. 
 
 Also, I tried deploying my python app on Render and Netlify, but their free tier have not enough memory for my app to process with the video rendering and capturing. I have uploaded another repo where you can use Google Cloud to upload your videos and use your credentials in the code to code to utilize cloud uploaded videos into video processing. I'm still working on the website deployment, so stay tuned. 
 
